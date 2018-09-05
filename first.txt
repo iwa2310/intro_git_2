@@ -5,3 +5,5 @@ Gitの練習をしていきます。
 ・git rm
 ・git status
 ・git status 2
+・git log
+・git diff
